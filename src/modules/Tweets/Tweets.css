@@ -1,3 +1,4 @@
 .tweets-container{
-  background-color: brown;
+  /* background-color: brown; */
+  outline: 1px solid grey ;
 }
